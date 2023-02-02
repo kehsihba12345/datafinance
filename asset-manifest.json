@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/datafinance/static/css/main.83b88d6b.css",
+    "main.js": "/datafinance/static/js/main.b447c9c3.js",
+    "static/media/laptop.jpg": "/datafinance/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/datafinance/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/datafinance/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/datafinance/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/datafinance/index.html",
+    "main.83b88d6b.css.map": "/datafinance/static/css/main.83b88d6b.css.map",
+    "main.b447c9c3.js.map": "/datafinance/static/js/main.b447c9c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83b88d6b.css",
+    "static/js/main.b447c9c3.js"
+  ]
+}
